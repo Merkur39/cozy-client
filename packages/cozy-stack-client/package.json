@@ -21,7 +21,7 @@
     "prepublishOnly": "yarn run build"
   },
   "devDependencies": {
-    "@babel/cli": "7.12.8"
+    "@babel/cli": "7.12.10"
   },
   "sideEffects": false
 }
